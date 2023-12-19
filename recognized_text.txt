@@ -1,0 +1,5 @@
+Make sure to activate your virtual environment (if you are using one) before running this command.
+
+Choose the option that best suits your needs and permissions on 
+the system. If you're still having issues, you may need to consult with your system administrator or IT support to get the necessary permissions for 
+installing Python packages globally on your system.
